@@ -1,2 +1,2 @@
 # 3D Printing
-Everything I've designed from starting in TinkerCAD to moving to Fusion360
+Everything I've designed from starting in TinkerCAD to moving to Fusion360. Upon initially picking up my 1st and then 2nd 3D printer I just browsed Printables, Thingiverse or Makerworld for models but the more I learned and got comfortable using them the more I wanted to create models that I could actually use around me in my everyday life. It started with a fix for a broken wooden leg on a chair, then I needed a stand for an small external display I purchased and suddenly it turned into custom shop vac fittings and more.
